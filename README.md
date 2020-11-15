@@ -1,1 +1,1 @@
-# springboot-mybatis-mysql-gradle
+# springboot-mybatis-mysql-gradle example
